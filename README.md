@@ -6,7 +6,7 @@
 ## 3.EXPLICACIÓN  DEL PROCEDIMIENTO
 ### MATERIALES Y EQUIPOS
 
-![image](https://user-images.githubusercontent.com/84431598/125512810-3cdcd408-f6c9-4440-864d-bdbf44f625cb.png)
+![image](https://user-images.githubusercontent.com/84431598/125513157-8a2612cc-f075-4cc8-b092-30a968eb07d5.png)
 
 ### PROCEDIMIENTO
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
