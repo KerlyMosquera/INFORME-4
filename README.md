@@ -2,6 +2,7 @@
 ## 1.OBJETIVOS
 ### OBJETIVO GENERAL
 ### OBJETIVO ESPECÍFICOS
+- Aplicar el teorema de superposición al análisis de circuitos.
 ## 2.MARCO TEÓRICO
 ## 3.EXPLICACIÓN  DEL PROCEDIMIENTO
 ### MATERIALES Y EQUIPOS
