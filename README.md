@@ -1,8 +1,9 @@
 # PRÁCTICA No.4 TEOREMA DE SUPERPOSICIÓN
 ## 1.OBJETIVOS
 ### OBJETIVO GENERAL
+- Aplicar el teorema de superposición para comprovar las mediciones en la simulación y en los cálculos obtenidos.
 ### OBJETIVO ESPECÍFICOS
-- Aplicar el teorema de superposición al análisis de circuitos.
+- Observar la efectividad y facilidad de uso del teorema de superposición, aplicado en el análisis de un circuito mixto.
 ## 2.MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/84431598/125533526-b476c643-3a4a-4a5d-950b-5636dce15984.png)
