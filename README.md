@@ -19,7 +19,8 @@
 ### 4.2 CÁLCULOS
 ### 4.3 CÁLCULO DEL ERROR
 ## 5.VIDEO
-## 6.BIBLIOGRAFÍA
+## 6.CONCLUSIONES
+## 7.BIBLIOGRAFÍA
 Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
 
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
