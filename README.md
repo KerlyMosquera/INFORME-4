@@ -18,13 +18,19 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/125726840-d45993f8-b2fe-480d-9bfc-a53a183d380b.png)
 
-   *Figura 3.1. Circuito para comprobar el Teorema de Superposición.*
+   *Figura 1. Circuito para comprobar el Teorema de Superposición.*
 
-#### 3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+#### 3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-#### 3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+  *Figura 2: Medición de voltaje VA y la corriente Ix
+  
+#### 3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
 
-#### 3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+  *Figura 3: Medición de voltaje VA y la corriente Ix cuando es "cero" la fuente de voltaje de 12 V (V2)*
+
+#### 3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
+
+*Figura 4: Medición de voltaje VA y la corriente Ix “cero” la fuente de voltaje de 20 V (V1)*
 
 #### 3.2.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
