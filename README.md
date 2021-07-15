@@ -22,13 +22,19 @@
 
 #### 3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/84425276/125870436-66ad606d-13df-4a0a-b440-3d9de7420d80.png)
+
   *Figura 2: Medición de voltaje VA y la corriente Ix*
   
 #### 3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/84425276/125870462-70a76c79-6e5b-49a3-a6bc-bf9b64de1973.png)
+
   *Figura 3: Medición de voltaje VA y la corriente Ix cuando es "cero" la fuente de voltaje de 12 V (V2)*
 
 #### 3.2.4 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 1 y 2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/84425276/125870532-6bbbd84d-6468-4609-98de-58197367392a.png)
 
 *Figura 4: Medición de voltaje VA y la corriente Ix “cero” la fuente de voltaje de 20 V (V1)*
 
@@ -36,6 +42,9 @@
 
 ## 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
+
+![image](https://user-images.githubusercontent.com/84425276/125870891-95cd40ac-c846-4d8d-9cdd-859fdae52916.png)
+
 ### 4.2 CÁLCULOS
 ### 4.3 CÁLCULO DEL ERROR
 ## 5. VIDEO
