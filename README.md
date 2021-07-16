@@ -63,8 +63,13 @@ Tabla 3. Cálculo del error
 ![image](https://user-images.githubusercontent.com/84425276/125882464-f277f3ad-e9b6-4496-ab91-6b53dc900540.png)
 
 ## 5. VIDEO
-## 6. CONCLUSIONES
-## 7. BIBLIOGRAFÍA
-Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
 
+## 6. CONCLUSIONES
+-
+-
+-
+- De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
+## 7. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
+
+Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
