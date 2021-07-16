@@ -54,6 +54,8 @@ Tabla 2. Medición de corriente aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/84425276/125882334-8a69c709-1d1f-4ee8-81ec-8d6913e5c639.png)
 
+*Figura 5: Circuito armado en Tinkercad*
+
 ### 4.2 CÁLCULOS
 
 ![image](https://user-images.githubusercontent.com/84431598/125889176-ed04bd32-ff49-4578-80c1-5cf64d422836.png)
