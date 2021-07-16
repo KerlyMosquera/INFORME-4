@@ -125,6 +125,8 @@ Tabla 3. Cálculo del error
 
 ## 5. VIDEO
 
+https://youtu.be/ARRxoRcJpew
+
 ## 6. CONCLUSIONES
 - Para concluir este teorema de superposicíon solo se puede utilizar cuando se encuentran dos o mas fuentes, es la suma algebraica de los voltajes (o de las corrientes si es el caso), debidos a cada fuente, como si cada una actuara de manera independiente.
 -
