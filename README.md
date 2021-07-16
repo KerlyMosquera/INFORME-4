@@ -54,6 +54,16 @@ Tabla 2. Medición de corriente aplicando superposición.
 ![image](https://user-images.githubusercontent.com/84425276/125882334-8a69c709-1d1f-4ee8-81ec-8d6913e5c639.png)
 
 ### 4.2 CÁLCULOS
+
+![image](https://user-images.githubusercontent.com/84431598/125889176-ed04bd32-ff49-4578-80c1-5cf64d422836.png)
+
+Reemplazamos V=12V con una resistencia de cero (en cortocircuito)
+
+![image](https://user-images.githubusercontent.com/84431598/125889293-3491685f-3869-4d49-b914-ce376a3fa087.png)
+
+
+
+
 ### 4.3 CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/84425276/125882484-e563a193-0f2c-406e-bbf5-64454349a3ed.png)
