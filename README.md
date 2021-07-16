@@ -136,5 +136,4 @@ https://youtu.be/ARRxoRcJpew
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 ## 7. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
-
 Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
