@@ -59,12 +59,61 @@ Tabla 2. Medición de corriente aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/84431598/125889176-ed04bd32-ff49-4578-80c1-5cf64d422836.png)
 
-Reemplazamos V=12V con una resistencia de cero (en cortocircuito)
+1.-Reemplazamos V_2=12V con una resistenncia de cero (en cortocircuito)
 
 ![image](https://user-images.githubusercontent.com/84431598/125889293-3491685f-3869-4d49-b914-ce376a3fa087.png)
 
+2.- Como R_4  y el voltaje de V=12V actúa como en una resistencia de cero y están en paralelo se reduce el circuito:
 
+![image](https://user-images.githubusercontent.com/84431598/125893425-9aa81776-75f5-49c3-9791-0630d141e546.png)
 
+3.-Determinamos R_T  e I_T :
+
+![image](https://user-images.githubusercontent.com/84431598/125893566-bd121662-6aef-42c8-988b-ff7e6e6de917.png)
+
+4.- Determinar I_(X_1 ) producida por 20 V con la resistencia equivalente de:
+
+![image](https://user-images.githubusercontent.com/84431598/125893726-ec6211d0-208c-4d48-9922-d0550fdeb9f1.png)
+
+Y para encontrar Va1
+
+![image](https://user-images.githubusercontent.com/84431598/125893800-eff74c19-302e-444f-a49e-a580439ddf94.png)
+
+1.-Reemplazamos V_1=20V con una resistencia de cero (en cortocircuito)
+
+![image](https://user-images.githubusercontent.com/84431598/125893943-8ab92bae-f006-4e3f-b918-99cd59c7dd6f.png)
+
+2.-Determinamos R_E1 entre R_1 y R_2 las cuales se encuentran en paralelo
+
+![image](https://user-images.githubusercontent.com/84431598/125893995-d2e74d8a-b697-4e7a-acc2-3160b4f9b7bf.png)
+
+![image](https://user-images.githubusercontent.com/84431598/125894091-225509cd-c867-47a9-b212-b40107d7a906.png)
+
+3.-Determinamos R_E2 entre R_E1 y R_3 las cuales se encuentran en serie
+
+![image](https://user-images.githubusercontent.com/84431598/125894303-b7d71c0d-4b87-4966-84f0-82e0eddc0e78.png)
+
+![image](https://user-images.githubusercontent.com/84431598/125894329-b5e4bd39-331b-4552-9bb5-6597664f4f9f.png)
+
+4.-Determinamos R_E3 entre R_E2 y R_4 las cuales se encuentran en paralelo
+
+![image](https://user-images.githubusercontent.com/84431598/125894456-380ffc69-20aa-46f6-b6ea-4fc36d7d8133.png)
+
+![image](https://user-images.githubusercontent.com/84431598/125894549-b1735dc5-df85-41a6-b578-c41aaf49769c.png)
+
+5.- Determinar una I_T,I_x  y una I_y
+
+![image](https://user-images.githubusercontent.com/84431598/125894623-7569964d-6438-4a43-9a2d-f1d88ae752ca.png)
+
+![image](https://user-images.githubusercontent.com/84431598/125894738-2cc7886e-2592-431a-b583-df026e746f79.png)
+
+Para encontrar VA2
+
+![image](https://user-images.githubusercontent.com/84431598/125895008-2522ffab-387d-4267-83d7-84967518f81d.png)
+
+6.- Los valores obtenidos nos ayudaran a determinar la V_A y I_X totales
+
+![image](https://user-images.githubusercontent.com/84431598/125895059-a118b092-0fd7-4035-ae5f-5e7c4efad177.png)
 
 ### 4.3 CÁLCULO DEL ERROR
 
