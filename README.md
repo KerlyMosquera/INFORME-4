@@ -46,6 +46,8 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/125870891-95cd40ac-c846-4d8d-9cdd-859fdae52916.png)
 
+*Figura 5: Circuito armado en Tinkercad*
+
 Tabla 1. Medición de voltaje aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/84425276/125882311-27f9a1b2-8302-449b-8f18-acb2fcde4c72.png)
@@ -53,8 +55,6 @@ Tabla 1. Medición de voltaje aplicando superposición.
 Tabla 2. Medición de corriente aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/84425276/125882334-8a69c709-1d1f-4ee8-81ec-8d6913e5c639.png)
-
-*Figura 5: Circuito armado en Tinkercad*
 
 ### 4.2 CÁLCULOS
 
