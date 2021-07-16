@@ -122,12 +122,17 @@ Tabla 3. Cálculo del error
 
 ![image](https://user-images.githubusercontent.com/84425276/125882464-f277f3ad-e9b6-4496-ab91-6b53dc900540.png)
 
+### 4.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
 ## 5. VIDEO
 
 https://youtu.be/ARRxoRcJpew
 
 ## 6. CONCLUSIONES
 - Para concluir este teorema de superposicíon solo se puede utilizar cuando se encuentran dos o mas fuentes, es la suma algebraica de los voltajes (o de las corrientes si es el caso), debidos a cada fuente, como si cada una actuara de manera independiente.
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 ## 7. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
