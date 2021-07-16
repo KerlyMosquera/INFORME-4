@@ -5,7 +5,6 @@
 ### OBJETIVO ESPECÍFICOS
 - Observar la efectividad y facilidad de uso del teorema de superposición, aplicado en el análisis de un circuito mixto.
 - Comprender el teorema de superposición mediante la comprobación de mediciones experimentales y simulaciones de circuitos en Tinkercad.
-- 
 ## 2. MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/84431598/125533526-b476c643-3a4a-4a5d-950b-5636dce15984.png)
@@ -129,8 +128,6 @@ https://youtu.be/ARRxoRcJpew
 
 ## 6. CONCLUSIONES
 - Para concluir este teorema de superposicíon solo se puede utilizar cuando se encuentran dos o mas fuentes, es la suma algebraica de los voltajes (o de las corrientes si es el caso), debidos a cada fuente, como si cada una actuara de manera independiente.
--
--
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 ## 7. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
